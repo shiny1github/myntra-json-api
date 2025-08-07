@@ -67,7 +67,59 @@
       "productName": "Belts & Wallets",
       "imageURL": "https://images.unsplash.com/photo-1626508651395-474256aba3ad?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     }
-  ]
+  ],
+ "browser": [
+  {
+    "browsProductImage": "https://i.pinimg.com/1200x/5d/89/79/5d89796450d60bd7f21772bd2400c3aa.jpg",
+    "browsProduct": "Saree mall",
+    "browsProductDetail": "Embellished Geogette Saree"
+  },
+  {
+    "browsProductImage": "https://reflexions.in/cdn/shop/files/l-oreal-professional-paris-density-advanced-shampoo-with-omega-6-for-thinning-hair-300ml-reflexions-salon-1_700x700.jpg?v=1721373747",
+    "browsProduct": "Loreal Professionnel",
+    "browsProductDetail": "Density Advanced Shampoo"
+  },
+  {
+    "browsProductImage": "https://images-cdn.ubuy.co.in/64b423bfed321849d1006e28-set-of-two-rudraksha-rakhi-thread.jpg",
+    "browsProduct": "Pansh",
+    "browsProductDetail": "Thread Rakhi"
+  },
+  {
+    "browsProductImage": "https://cdn.dotpe.in/longtail/store-items/6450674/9sIYc1nm.jpeg",
+    "browsProduct": "Pooja Set",
+    "browsProductDetail": "Divine idols"
+  },
+  {
+    "browsProductImage": "https://images-static.nykaa.com/media/catalog/product/9/2/929ce918906121648355_2.jpg?tr=w-500",
+    "browsProduct": "Renee",
+    "browsProductDetail": "Pro Hd Corrector"
+  },
+  {
+    "browsProductImage": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:540/carolina-herrera/957598/0/DqIMcCG8x3-t__lbU25F-957598_1.jpg",
+    "browsProduct": "Carolina Herrera",
+    "browsProductDetail": "Good Girl Blush EDP"
+  },
+  {
+    "browsProductImage": "https://leshya.com/cdn/shop/files/image_67143681_530x@2x.jpg?v=1717753358",
+    "browsProduct": "Stacked Bangles",
+    "browsProductDetail": "Vibrant Add-Ons"
+  },
+  {
+    "browsProductImage": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:540/1121645/aAGwTnycst-8906129572997_1.jpg",
+    "browsProduct": "Lipstick",
+    "browsProductDetail": "Make up Marvels"
+  },
+  {
+    "browsProductImage": "https://henningsdecor.com/wp-content/uploads/elementor/thumbs/LordKrishna013-1-qw09jcbrx4r1n9ynb21y8k6z773fxo2ed3uyv647rs.jpg",
+    "browsProduct": "Myntra Elegant",
+    "browsProductDetail": "Religious Wall Paintings"
+  },
+  {
+    "browsProductImage": "https://www.beilibeauty.com/cdn/shop/files/1_2de746de-0bdf-4a9b-ba28-69a6b78b0827.jpg?v=1718608920&width=1500",
+    "browsProduct": "Makeup Revolution ",
+    "browsProductDetail": "Pro New Neutral Palette"
+  }
+ ]
   
   
 }
