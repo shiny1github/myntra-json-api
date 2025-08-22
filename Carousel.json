@@ -119,8 +119,45 @@
     "browsProduct": "Makeup Revolution ",
     "browsProductDetail": "Pro New Neutral Palette"
   }
- ]
+ ],
+  "categories_side": [
+    {
+      "categoryTitle": "Trending Now",
+      "sideImageURL": "https://media.istockphoto.com/id/1251567184/vector/fire-vector-isolated.jpg?s=2048x2048&w=is&k=20&c=o0AqM-SHsULO4S8KUunCxW6u4tEhzpXFaW1rl2753SA="
+    },
+    {
+      "categoryTitle": "Mens Wear",
+      "sideImageURL": "https://thumbs.dreamstime.com/b/two-handsome-men-posing-isolated-background-here-guys-standing-white-back-to-another-pointing-index-fingers-56242284.jpg"
+    },
+    {
+      "categoryTitle": "Womens Wear",
+      "sideImageURL": "https://img.freepik.com/premium-photo/two-young-happy-women-white-black-shirts-standing-white-background-studio_567313-3911.jpg?semt=ais_hybrid&w=740&q=80"
+    },
+   {
+      "categoryTitle": "Kids Wear",
+      "sideImageURL": "https://img.freepik.com/free-psd/close-up-kids-expression-portrait_23-2150193477.jpg"
+    },
+    {
+      "categoryTitle": "Footwear",
+      "sideImageURL": "https://www.shutterstock.com/image-photo/white-sneakers-on-background-including-260nw-1100736923.jpg"
+    },
+   {
+      "categoryTitle": "Beauty & Grooming",
+      "sideImageURL": "https://www.shutterstock.com/image-photo/hairdresser-accessories-coloring-hair-on-260nw-249056263.jpg"
+    },
+   {
+      "categoryTitle": "Home & Living",
+      "sideImageURL": "https://plus.unsplash.com/premium_photo-1676968002872-98b3ce354a16?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8d2hpdGUlMjBsaXZpbmclMjByb29tfGVufDB8fDB8fHww"
+    },
+    {
+      "categoryTitle": "Accessories",
+      "sideImageURL": "https://www.shutterstock.com/image-photo/flat-lay-trendy-creative-feminine-260nw-521513251.jpg"
+    },
+   {
+      "categoryTitle": "Gadgets",
+      "sideImageURL": "https://www.shutterstock.com/image-photo/set-different-gadgets-isolated-on-260nw-2334746773.jpg"
+    }
   
-  
+  ]
 }
 
